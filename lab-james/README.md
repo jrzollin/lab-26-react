@@ -1,0 +1,1 @@
+## To run this code type "npm run watch" in the console.  Then open your browser to localhost:8080 and you should see a cow.  To change what it says simply click on "Poke the cow".  To see a different cow click on one of the buttons next to "Poke the cow".
